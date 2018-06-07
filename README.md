@@ -176,6 +176,10 @@ Retrying with degraded mode, check https://getcomposer.org/doc/articles/troubles
 # solution -
 $ composer clear-cache
 
+# 5th The package name was not found in the composer.json, make sure there is a name present. in https://packagist.org during submit package
+# Soultion -
+composer.json file not in the 3rd party library
+
 # Issues after execute composer require prashant7july/tutorial-validator:dev-master
 How can I resolve “Your requirements could not be resolved to an installable set of packages” error?
 # Solution
