@@ -17,7 +17,7 @@ India Aadhar Number Validator Moduel for zf2/Apigility
 ```
 
 ## Step 2 - Create a new repository -
-![Create a new repository](https://github.com/prashant7july/aadhar-number-validator/tree/master/images)
+![Create a new repository](https://github.com/prashant7july/aadhar-number-validator/blob/master/images/create-a-new-repository.png)
 
 ## Step 3 - Take git branch in your local -
 git clone https://github.com/prashant7july/aadhar-number-validator.git
