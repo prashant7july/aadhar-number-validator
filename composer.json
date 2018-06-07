@@ -1,6 +1,7 @@
 {
   "name": "prashant7july/aadhar-number-validator",
   "description": "India Aadhar Number Validator Moduel for zf2/Apigility",
+  "license": "BSD-3-Clause",
   "keywords": [
     "zf2",
     "apigility",
