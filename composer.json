@@ -1,0 +1,29 @@
+{
+  "name": "prashant7july/aadhar-number-validator",
+  "description": "India Aadhar Number Validator Moduel for zf2/Apigility",
+  "keywords": [
+    "zf2",
+    "apigility",
+    "Aadhar Number",
+    "validator"
+  ],
+  "authors": [
+    {
+      "name": "Prashant Shekher",
+      "email": "prashant7july@gmail.org",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "zendframework/zendframework": "2.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "IndiaAadhaarNumberValidator\\": "src/"
+    },
+    "classmap": [
+      "Module.php"
+    ]
+  }
+}
