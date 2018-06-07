@@ -30,17 +30,14 @@ git clone https://github.com/prashant7july/aadhar-number-validator.git
   "description": "India Aadhar Number Validator Moduel for zf2/Apigility",
   "keywords": [
     "zf2",
-    "learn",
-    "book",
-    "debug",
-    "profile"
+    "apigility",
+    "Aadhar Number",
+    "validator"
   ],
-  "homepage": "http://learnzf2.com",
   "authors": [
     {
       "name": "Prashant Shekher",
       "email": "prashant7july@gmail.org",
-      "homepage": "http://zf2consulting.com",
       "role": "Author"
     }
   ],
