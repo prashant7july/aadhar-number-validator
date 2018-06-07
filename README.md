@@ -83,7 +83,7 @@ You can then hit the "Test Service" button to trigger it and check if Packagist 
   Could not find package prashant7july/tutorial-validator at any version for your minimum-stability (stable). Check the package spelling or   
   your minimum-stability 
 ## Solution - 
-* $ git tag -a 1.0.0 -m 'release version'
+* $ git tag -a 1.0.0 -m 'release of version 1.0.0'
 * $ git push origin 1.0.0
 
 # IndiaAadhaarNumberValidator Install in zf2 or Apigility
