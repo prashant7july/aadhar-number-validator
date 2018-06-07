@@ -180,6 +180,9 @@ $ composer clear-cache
 # Soultion -
 composer.json file not in the 3rd party library
 
+# 6th Issue - There is no license information available for the latest version (dev-master) of this package.
+Set the "license": "BSD-3-Clause" in composer.json
+
 # Issues after execute composer require prashant7july/tutorial-validator:dev-master
 How can I resolve “Your requirements could not be resolved to an installable set of packages” error?
 # Solution
