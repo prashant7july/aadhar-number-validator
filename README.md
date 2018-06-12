@@ -87,7 +87,8 @@ You can then hit the "Test Service" button to trigger it and check if Packagist 
 * [how to release a composer package](https://jameshfisher.com/2017/11/06/how-to-release-a-composer-package.html)
 * [create-a-tag-in-github-repository](https://stackoverflow.com/questions/18216991/create-a-tag-in-github-repository)
 * During execute $ composer require prashant7july/tutorial-validator getting an issues as below -
-[InvalidArgumentException]                                                                                                                
+[InvalidArgumentException]
+* [Creating Releases form Github](https://help.github.com/articles/creating-releases/)
   Could not find package prashant7july/tutorial-validator at any version for your minimum-stability (stable). Check the package spelling or   
   your minimum-stability 
 ## Solution - 
