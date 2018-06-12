@@ -1,6 +1,43 @@
 # aadhar-number-validator
 India Aadhar Number Validator Moduel for zf2/Apigility
 
+## IndiaAadhaarNumberValidator Install in zf2 or Apigility
+
+#### Run the following composer command:
+* $ composer require prashant7july/aadhar-number-validator
+
+OR
+
+```
+"require": {
+    "prashant7july/aadhar-number-validator": "1.0.0"
+}
+```
+And then run composer update to ensure the module is installed.
+
+Finally, add the module name to your project's config/application.config.php under the modules key:
+```
+return [
+    /* ... */
+    'modules' => [
+        /* ... */
+        'IndiaAadhaarNumberValidator',
+    ],
+    /* ... */
+];
+```
+OR 
+
+```
+config/modules.config.php 
+
+return [
+    /* ... */
+    'IndiaAadhaarNumberValidator',
+    /* ... */
+];
+```
+
 ## How to create custom module (Like custom validator etc) and convert it in to the 3rd party vender module?
 
 #### Step 1 - Structure in Module for IndiaAadhaarNumberValidator
@@ -94,40 +131,3 @@ You can then hit the "Test Service" button to trigger it and check if Packagist 
 ## Solution - 
 * $ git tag -a 1.0.0 -m 'release of version 1.0.0'
 * $ git push origin 1.0.0
-
-# IndiaAadhaarNumberValidator Install in zf2 or Apigility
-
-#### Run the following composer command:
-* $ composer require prashant7july/aadhar-number-validator
-
-OR
-
-```
-"require": {
-    "prashant7july/aadhar-number-validator": "1.0.0"
-}
-```
-And then run composer update to ensure the module is installed.
-
-Finally, add the module name to your project's config/application.config.php under the modules key:
-```
-return [
-    /* ... */
-    'modules' => [
-        /* ... */
-        'IndiaAadhaarNumberValidator',
-    ],
-    /* ... */
-];
-```
-OR 
-
-```
-config/modules.config.php 
-
-return [
-    /* ... */
-    'IndiaAadhaarNumberValidator',
-    /* ... */
-];
-```
