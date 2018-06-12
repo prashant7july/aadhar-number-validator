@@ -88,9 +88,9 @@ You can then hit the "Test Service" button to trigger it and check if Packagist 
 * [create-a-tag-in-github-repository](https://stackoverflow.com/questions/18216991/create-a-tag-in-github-repository)
 * During execute $ composer require prashant7july/tutorial-validator getting an issues as below -
 [InvalidArgumentException]
-* [Creating Releases form Github](https://help.github.com/articles/creating-releases/)
   Could not find package prashant7july/tutorial-validator at any version for your minimum-stability (stable). Check the package spelling or   
   your minimum-stability 
+* [Creating Releases form Github](https://help.github.com/articles/creating-releases/)
 ## Solution - 
 * $ git tag -a 1.0.0 -m 'release of version 1.0.0'
 * $ git push origin 1.0.0
